@@ -16,6 +16,7 @@
 - OBS
 
 ## Protocols / Connection technology
+- TCP/IP
 - HTTP
 - sACN / ANSI E1.31
 - DMX
