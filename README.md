@@ -1,3 +1,6 @@
+ <details>
+  <summary>expand</summary>
+
 ## Languages
 ### much experience
 - HTML & CSS
@@ -23,3 +26,4 @@
 - DCC
 - I2C
 - UART
+</details> 
